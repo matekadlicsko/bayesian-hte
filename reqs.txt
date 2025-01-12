@@ -1,0 +1,9 @@
+numpy<2.0.0
+arviz
+pandas
+scikit-learn
+xarray
+pymc
+ipykernel
+ipywidgets
+pymc-bart
